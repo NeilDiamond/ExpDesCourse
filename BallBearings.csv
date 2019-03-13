@@ -1,0 +1,9 @@
+StdOrder,InnerRingHeatTreatment,OuterRingOsculation,CageDesign,LifeHrs
+1,std,std,std,17
+2,mod,std,std,26
+3,std,mod,std,25
+4,mod,mod,std,85
+5,std,std,mod,19
+6,mod,std,mod,16
+7,std,mod,mod,21
+8,mod,mod,mod,128

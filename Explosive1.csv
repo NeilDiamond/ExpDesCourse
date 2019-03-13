@@ -1,0 +1,17 @@
+StdOrder,GumAge,ThioureaAge,Controlled_pH,Aluminium,Viscosity
+1,2 Hrs,2 Hrs,No,Yes,1202
+2,1 Week,2 Hrs,No,Yes,1166
+3,2 Hrs,1 Week,No,Yes,316
+4,1 Week,1 Week,No,Yes,1056
+5,2 Hrs,2 Hrs,Yes,Yes,1160
+6,1 Week,2 Hrs,Yes,Yes,1244
+7,2 Hrs,1 Week,Yes,Yes,213
+8,1 Week,1 Week,Yes,Yes,1204
+9,2 Hrs,2 Hrs,No,No,1162
+10,1 Week,2 Hrs,No,No,1238
+11,2 Hrs,1 Week,No,No,232
+12,1 Week,1 Week,No,No,920
+13,2 Hrs,2 Hrs,Yes,No,1140
+14,1 Week,2 Hrs,Yes,No,1228
+15,2 Hrs,1 Week,Yes,No,276
+16,1 Week,1 Week,Yes,No,1194
